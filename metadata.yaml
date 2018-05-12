@@ -1,0 +1,44 @@
+_repo: With-Americans-of-Past-and-Present-Days_39954
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jusserand, J. J. (Jean Jules)
+    aliases:
+    - Jusserand, Jean Adrien Antoine Jules
+    - Jusserand, Jean Jules
+    birthdate: 1855
+    deathdate: 1932
+    gutenberg_agent_id: '25062'
+    url: http://www.gutenberg.org/2009/agents/25062
+    wikipedia: http://en.wikipedia.org/wiki/Jean_Jules_Jusserand
+description: ''
+gutenberg_issued: '2012-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39954'
+  lccn: '16011605'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Biography'
+- !lcsh 'L''Enfant, Pierre Charles, 1754-1825'
+- !lcsh 'United States -- Relations -- France'
+- !lcsh 'Washington, George, 1732-1799'
+- !lcsh 'Rochambeau, Jean-Baptiste-Donatien de Vimeur, comte de, 1725-1807'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Participation, French'
+- !lcsh 'France -- Relations -- United States'
+- !lcc 'E151'
+tableOfContents: Dedication -- Rochambeau and the French in America, from unpublished
+  documents -- Major L'Enfant and the Federal city -- Washington and the French --
+  Abraham Lincoln -- The Franklin medal, Philadelphia, April 20, 1906 -- Horace Howard
+  Furness; an address delivered in the name of the American philosophical society,
+  Philadelphia, January 17, 1913 -- From war to peace; an address delivered before
+  the American society for the judicial settlement of international disputes, December
+  17, 1910.
+title: With Americans of Past and Present Days
+url: http://www.gutenberg.org/ebooks/39954
