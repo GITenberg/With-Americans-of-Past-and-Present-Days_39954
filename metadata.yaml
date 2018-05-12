@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25062
     wikipedia: http://en.wikipedia.org/wiki/Jean_Jules_Jusserand
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39954#With-Americans-of-Past-and-Present-Days
 gutenberg_issued: '2012-06-09'
 gutenberg_type: Text
 identifiers:
